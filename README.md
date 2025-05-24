@@ -33,7 +33,7 @@
 
 ```bash
 # 克隆项目
-git clone https://github.com/your-username/auto-cursor-refreshToken.git
+git clone https://github.com/Hbin-Zhuang/auto-cursor-refreshToken.git
 cd auto-cursor-refreshToken
 
 # 执行安装脚本
